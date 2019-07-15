@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<?php
+			//use think\Controller;
+			if(session('data')){
+		 		echo session('data');
+			}
+			//$this->redirect()->restore();
+		?>
+		<form action="upload" method="post" enctype="multipart/form-data">
+			用户名<input type="text" name="uName"/><br />
+			头像：<input type="file" name="image"/><br />
+			<input type="submit" value="提交" id="submit"/>
+		</form>
+	</body>
+</html>

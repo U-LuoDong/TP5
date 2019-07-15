@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>内置标签</title>
+	</head>
+	<body>
+		{volist name='list' id='vo' offset="0" length="1"} 
+		   {$vo.id}->{$vo.name}<br />
+		{/volist}
+		{foreach $list as $value}
+		  {$value.id}->{$value.name}<br />
+		{/foreach}
+		<!--使用原生php-->
+		{php}echo "hello luodong"{/php}
+		
+	</body>
+</html>

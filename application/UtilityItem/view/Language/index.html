@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+	<span >{$Think.lang.test}</span><!--用着个方法不能输出中文-->
+	<div >{:lang('质量管理学')}</div >
+	<div  >{:lang('线性代数')}</div >
+	<button type="button" lang='cn' class='btn'>中文模式</button>
+    <button type="button" lang='en' class='btn'>英文模式</button>
+    <button type="button" lang='其它语言' class='btn'>默认语言</button>
+    <script type="text/javascript" src="/StudentInformationManagementSystem/jquery/jquery-3.3.1.js"></script>
+    <!--下面这段代码切换语言-->
+    <script>
+    $('.btn').click(function(){
+        var data={'lang':$(this).attr('lang')}
+        $.get("{:url('Language/lang')}",data,function(){
+        location.reload();
+        })
+    })
+    </script>
+	</body>
+</html>

@@ -1,0 +1,23 @@
+<!--模板的重用-->
+<!--{layout name="layout" /}罗东-->
+       
+       
+       
+<!--模板的继承-->
+{extend name="base" /}  
+
+{block name="left"}{/block}  <!--1、删除-->
+
+{block name="menu"}   <!--2、重写-->
+<a href="/" >首页</a>
+<a href="/info/" >资讯</a>
+<a href="/bbs/" >论坛</a>
+{/block}
+
+{block name="footer"}  <!--3、合并-->
+{__block__}
+@ThinkPHP 版权所有
+{/block}
+
+
+       

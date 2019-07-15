@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<p>修改</p>
+		<form action="updata" method="post">
+			<!--隐藏传递id-->
+			<input type="hidden" name="id" value="{$data.id}"/>
+			姓名：<input type="text" name="name" value="{$data.name}"/>
+			数学成绩：<input type="text" name="math" value="{$data.math}"/>
+			英语成绩：<input type= "text"  name="English" value="{$data.English}"/>
+			<input type="submit" value="确认提交" />
+		</form>
+	</body>
+</html>

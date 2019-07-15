@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>聊天室</title>
+</head>
+<body>
+<ul id="chatList">
+</ul>
+<input type="text" id="message" />
+<input type="button" name="btn_send" id="btn_send" value="send" />
+<script type="text/javascript">
+    var ws;
+    if(window.WebSocket){
+        ws=new WebSocket("ws://127.0.0.1:2346");//与服务端建立WebSocket连接
+    }
+    ws.onopen=function(){
+        alert("建立连接成功");
+    };//建立连接成功
+    ws.onclose=function(){
+        alert("关闭连接成功");
+    };//关闭
+    ws.onerror=function(){
+        alert("连接错误");
+    };//错误
+    //收到服务端发送的消息时自动执行
+    ws.onmessage=function(msg){
+        alert("收到服务端发送的消息："+(msg.data));
+        var oli=document.createElement("li");
+        oli.innerText=msg.data;
+        olist.appendChild(oli);
+    };//收到服务端发送的消息
+
+    var olist=document.getElementById("chatList");
+    var omessage=document.getElementById("message");
+    var obtn=document.getElementById("btn_send");
+    obtn.addEventListener("click",function(){
+        var msg=omessage.value;
+//				alert(msg);
+        ws.send(msg);//发送到服务器
+    });
+</script>
+</body>
+</html>
