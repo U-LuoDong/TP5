@@ -3,95 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7fd2c782-220a-47ea-8b01-35dc262ed3ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Base.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Denfence.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Manager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Score.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Student.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/controller/Test.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/model/Manager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/model/Student.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/validate/Manager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/validate/Score.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/sign.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/index/use_code.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/manager/modify_Pas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/manager/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/student/add.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/student/delete.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/student/hello1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/student/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/student/modify.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/student/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/student/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/test/test1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/StudentInformationManagementSystem/view/test/test2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Common.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/controller/Common.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Find.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/controller/Find.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/controller/Num.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/controller/Num.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/index/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/view/index/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/login/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/view/login/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/admin/view/public/left.htm" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/view/public/left.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/VerificationCode.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/VerificationCode2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/css/extend.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/Modify_Pas.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/add.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/delete.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/modify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/register.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/search.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/sign.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/css/useCode.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/denfence.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/getCode.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/getCode2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/35a85edf8db1cb1339d226a4dd54564e93584bc9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/QQ截图20180123204211.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/nsu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/nsu1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/nsu2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/nsu3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/nsu4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/nsu5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/nsu6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/img/nsu7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/jquery/jquery-3.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/jquery/jquery-migrate-1.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/Modify_Pas.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/add.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/delete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/modify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/sign.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/js/useCode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/StudentInformationManagementSystem/test.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,12 +31,39 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/admin/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="494">
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/admin/controller/AuthGroup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/admin/controller/Game.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/admin/view/index/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="18" column="33" selection-end-line="89" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -224,8 +162,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="525" />
-    <option name="y" value="169" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -235,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,11 +191,58 @@
               <item name="application" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tp5" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,7 +255,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tp5-CentOS/MobileDevelopmentCompetition" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -347,11 +332,14 @@
       <workItem from="1563015384606" duration="1986000" />
       <workItem from="1563100728903" duration="3430000" />
       <workItem from="1563121632260" duration="601000" />
+      <workItem from="1563804990345" duration="75000" />
+      <workItem from="1563805282672" duration="142000" />
+      <workItem from="1563869271355" duration="466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115005000" />
+    <option name="totallyTimeSpent" value="115688000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,8 +352,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118933335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24853334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -392,20 +381,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/websocket/controller/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/command.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -503,13 +478,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/static/admin/getCode.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/admin/view/index/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3268">
-          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/admin/view/public/left.htm">
       <provider selected="true" editor-type-id="text-editor">
@@ -691,8 +659,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/admin/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="494">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/AuthGroup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/controller/Game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/admin/view/index/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="18" column="33" selection-end-line="89" selection-end-column="7" />
         </state>
       </provider>
     </entry>
