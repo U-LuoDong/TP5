@@ -29,8 +29,8 @@ class Login extends Controller
        		}
             return;
         }
-//  	return	$this->fetch();
-		return  view();//用这个助手函数更加简洁  还不要用controller类
+  	return	$this->fetch();
+//		return  view();//用这个助手函数更加简洁  还不要用controller类
    }
 	
 	

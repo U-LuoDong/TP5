@@ -73,9 +73,10 @@ class Info extends Common
     public function del(){
 		$Defence=new Denfence();//实例化当前的类【在本目录下的不用use引入 】
 		//	安全防护开始
-		$Sid = $Defence->clean_xss(input('Sid')); //防注入代码   
-		//	安全防护结束
-		if(StudentModel::destroy($Sid)){
+		$Sid = $Defence->clean_xss(input('Sid')); //防注入代码
+//         dump(StudentModel::destroy(['sid'=>'06311810133']));die;
+        //	安全防护结束
+		if(StudentModel::destroy(['sid'=>$Sid])){
 			$this->success('删除学生信息成功!',url('lst')); 
 		}else{
             $this->error('删除学生信息项失败!');
@@ -90,7 +91,7 @@ class Info extends Common
 		//	安全防护开始
 		$Sid = $Defence->clean_xss($_POST['Sid']); //防注入代码   
 		//	安全防护结束
-		if(StudentModel::destroy($Sid)){
+		if(StudentModel::destroy(['sid'=>$Sid])){
 			$this->success('删除学生信息成功!',url('lst')); 
 		}else{
 	   		$this->error("该学生不存在!请重新输入...");
